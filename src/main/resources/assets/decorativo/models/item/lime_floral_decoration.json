@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "decorativo:item/lime_floral_decoration"
+  }
+}

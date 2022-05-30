@@ -1,0 +1,17 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "decorativo:block/light_gray_floral_decoration",
+    "light_gray_floral_decoration": "decorativo:block/light_gray_floral_decoration"
+  },
+  "elements": [
+    {   "from": [ 0, 0, 0.8 ],
+      "to": [ 16, 16, 0.8 ],
+      "shade": false,
+      "faces": {
+        "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#light_gray_floral_decoration", "tintindex": 0 },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#light_gray_floral_decoration", "tintindex": 0 }
+      }
+    }
+  ]
+}

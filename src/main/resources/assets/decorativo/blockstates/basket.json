@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "decorativo:block/basket",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "decorativo:block/basket"
+    },
+    "facing=south": {
+      "model": "decorativo:block/basket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decorativo:block/basket",
+      "y": 270
+    }
+  }
+}

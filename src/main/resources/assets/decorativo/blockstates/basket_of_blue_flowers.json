@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "decorativo:block/basket_of_blue_flowers",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "decorativo:block/basket_of_blue_flowers"
+    },
+    "facing=south": {
+      "model": "decorativo:block/basket_of_blue_flowers",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decorativo:block/basket_of_blue_flowers",
+      "y": 270
+    }
+  }
+}
